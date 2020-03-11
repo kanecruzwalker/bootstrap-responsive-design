@@ -1,16 +1,18 @@
-
-
-.display-4{
-    text-align: center;
-}
-.jumbotron , .jumbotron-fluid {
-    background-color:orange;
+img{
+    vertical-align: middle;
+    border-style: none;
+    
 }
 
-
-
-.nav{
-    background-color: turquoise;
+.house{
+    position: relative;
+}
+h3{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: orange;
+    width: 100%;
     text-align: center;
 }
 
